@@ -1,4 +1,5 @@
 # LISTA DE JOGOS
 
-* [jogo preferido 1]
-* [jogo preferido 2]
+* Need For Speed
+* Super Mario
+* Sonic 
