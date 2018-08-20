@@ -1,4 +1,5 @@
 # LISTA DE JOGOS
 
-* [jogo preferido 1]
-* [jogo preferido 2]
+* GTA 5
+* Mortal Kombat
+* FIFA
